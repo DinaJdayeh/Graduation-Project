@@ -1,0 +1,24 @@
+C:\Users\20149\source\repos\loca\loca\loca\obj\Debug\netstandard2.0\loca.csprojAssemblyReference.cache
+C:\Users\20149\source\repos\loca\loca\loca\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\20149\source\repos\loca\loca\loca\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\20149\source\repos\loca\loca\loca\obj\Debug\netstandard2.0\loca.csproj.CoreCompileInputs.cache
+C:\Users\20149\source\repos\loca\loca\loca\obj\Debug\netstandard2.0\loca.AssemblyInfoInputs.cache
+C:\Users\20149\source\repos\loca\loca\loca\obj\Debug\netstandard2.0\loca.AssemblyInfo.cs
+C:\Users\20149\source\repos\loca\loca\loca\bin\Debug\netstandard2.0\loca.deps.json
+C:\Users\20149\source\repos\loca\loca\loca\bin\Debug\netstandard2.0\loca.dll
+C:\Users\20149\source\repos\loca\loca\loca\bin\Debug\netstandard2.0\loca.pdb
+C:\Users\20149\source\repos\loca\loca\loca\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\20149\source\repos\loca\loca\loca\obj\Debug\netstandard2.0\loca.dll
+C:\Users\20149\source\repos\loca\loca\loca\obj\Debug\netstandard2.0\loca.pdb
+C:\Users\20149\OneDrive\Desktop\New folder (2)\loca\loca\loca\loca\bin\Debug\netstandard2.0\loca.deps.json
+C:\Users\20149\OneDrive\Desktop\New folder (2)\loca\loca\loca\loca\bin\Debug\netstandard2.0\loca.dll
+C:\Users\20149\OneDrive\Desktop\New folder (2)\loca\loca\loca\loca\bin\Debug\netstandard2.0\loca.pdb
+C:\Users\20149\OneDrive\Desktop\New folder (2)\loca\loca\loca\loca\obj\Debug\netstandard2.0\loca.csprojAssemblyReference.cache
+C:\Users\20149\OneDrive\Desktop\New folder (2)\loca\loca\loca\loca\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\20149\OneDrive\Desktop\New folder (2)\loca\loca\loca\loca\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\20149\OneDrive\Desktop\New folder (2)\loca\loca\loca\loca\obj\Debug\netstandard2.0\loca.csproj.CoreCompileInputs.cache
+C:\Users\20149\OneDrive\Desktop\New folder (2)\loca\loca\loca\loca\obj\Debug\netstandard2.0\loca.AssemblyInfoInputs.cache
+C:\Users\20149\OneDrive\Desktop\New folder (2)\loca\loca\loca\loca\obj\Debug\netstandard2.0\loca.AssemblyInfo.cs
+C:\Users\20149\OneDrive\Desktop\New folder (2)\loca\loca\loca\loca\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\20149\OneDrive\Desktop\New folder (2)\loca\loca\loca\loca\obj\Debug\netstandard2.0\loca.dll
+C:\Users\20149\OneDrive\Desktop\New folder (2)\loca\loca\loca\loca\obj\Debug\netstandard2.0\loca.pdb
